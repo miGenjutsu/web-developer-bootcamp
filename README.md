@@ -1,5 +1,5 @@
 <p align="center">
-<h1 align="center">Web Developemt BootCamp 2023 🕸️👨‍💻
+<h1 align="center">Web Developemt BootCamp 🕸️👨‍💻
 </h1>
 </p>
 
