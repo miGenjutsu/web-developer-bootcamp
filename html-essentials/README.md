@@ -1,6 +1,6 @@
 # HTML: The Essentials
 
-## 🎯 Unit Goals -- Things We'll Cssover
+## 🎯 Unit Goals -- Things We'll Cover
 -   HTML Basics
 -   Elements vs. Tags
 -   Intro to MDN
