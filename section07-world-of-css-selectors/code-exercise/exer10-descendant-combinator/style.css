@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(73, 65, 65);
+}
+
+header a {
+    font-size: 30px;
+    color: teal;
+}
+
+#dislikes a {
+    font-weight: bold;
+    color: red;
+}
