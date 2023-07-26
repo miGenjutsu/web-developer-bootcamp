@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(65, 55, 55);
+}
+
 .card {
     width: 210px;
     border: 1px solid grey;
